@@ -3,29 +3,39 @@
 
 <h1>Hey there, myself Souparna <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on a **MERN stack project** and brush up my **DSA** skills.
+- 🌱 I’m currently learning **Machine Learning using AWS**.
+- 👯 I’m looking to collaborate on a **blockchain**, **ML** and **AI** projects.
+- 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 ## :wave: About Me
 
-<a href="https://www.instagram.com/_sabya23sachi_/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-128.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/sabyasachi-das-2a6229159/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👨‍🎓 Hey! I'm Sabyasachi (you can call me Sabya😛), a 23 year old software engineer at **TCS** based in Hyderabad, India.
-
-I was hired as a **Systems Engineer** in **TCS Digital** and have been working as a **Big Data Engineer** for one of its developement projects at **LLoyds Banking Group(UK)**. I have been using **SparkSQL, Scala** and **Hive** as my tech stack in every day work under an **Agile** based wokflow.
-
-👩‍💻 Nowadays, I’m learning React and Spring Boot as I aspire to be a fullstack developer. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/user8392Cc/), [**CodeChef**](https://www.codechef.com/users/sabyasachi2301) and [**HackerRank.**](https://www.hackerrank.com/sabyasachi_das)
-
-⚡ Fun fact: I have a Electronics and Communication Engineering background with an ardent interest in IOT, but gradually shifted towards the world of Computer Science Engineering. I like to call myself a self taught programmer but I owe all my knowledge to Google, Youtube, Udemy and various tech blogs.
-
-📚 I am also an avid reader with a keen interest in mythological stories.
+👨‍🎓 Hello, I am Souparna Bhowmik a third year student of B.Tech Electrical.
 
 <br>
+
+
+## Languages and Tools:
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
+### Softwares:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+
 
 
 
