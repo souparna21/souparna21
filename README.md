@@ -1,7 +1,7 @@
-<!--
-**sabya2301/sabya2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github.com/souparna21/souparna21/blob/main/hello_world.gif?raw=true"  width="800pt" height="400pt"> </p>
+
+<h1>Hey there, myself Souparna <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,11 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<p align="center"> <img src="https://github.com/souparna21/souparna21/blob/main/hello_world.gif?raw=true"  width="800pt" height="400pt"> </p>
-
-<h1>Hey there, myself Souparna <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
 ## :wave: About Me
 
@@ -38,14 +33,14 @@ I was hired as a **Systems Engineer** in **TCS Digital** and have been working a
 <br>
 <br>
 
-<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/tenor.gif" align="right" width="275" height="175" /></a>
+<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/giphy.gif" align="right" width="275" height="150" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souparna21&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 <br>
 <br>
 
-<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/giphy.gif" align="right" width="275" height="150" /></a>
+<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/tenor.gif" align="right" width="275" height="175" /></a>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=souparna21&theme=onedark&show_icons=true&count_private=true)<br>
 
 
