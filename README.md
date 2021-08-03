@@ -1,9 +1,9 @@
 
-<p align="center"> <img src="https://github.com/souparna21/souparna21/blob/main/hello_world.gif?raw=true"  width="800pt" height="400pt"> </p>
+<p align="center"> <img src="https://github.com/souparna21/souparna21/blob/main/hello_world.gif?raw=true"  width="800rem" height="400rem"> </p>
 
 <br>
 
-<h1>Hey there, myself Souparna <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1>Hey there, myself Souparna <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30rem"></h1> 
 
 - 🔭 I’m currently working on a **MERN stack project** and brush up my **DSA** skills.
 - 🌱 I’m currently learning **Machine Learning using AWS**.
@@ -29,12 +29,12 @@ Feel free to contact with me via [LinkedIn](https://www.linkedin.com/in/souparna
 <br>
 <br>
 
-<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/giphy.gif" align="right" width="275" height="150" /></a>
+<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/giphy.gif" align="right" width="275rem" height="150rem" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souparna21&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 <br>
 <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=souparna21&theme=onedark&show_icons=true&count_private=true)
-<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/tenor.gif" align="right" width="275" height="175" /></a>
+<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/tenor.gif" align="right" width="275rem" height="175rem" /></a>
 <br>
 <br>
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=souparna21&theme=xcode)](https://github.com/souparna21?tab=repositories)
