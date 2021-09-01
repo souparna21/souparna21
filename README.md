@@ -3,9 +3,15 @@
 
 <br>
 
-<h1>Hey there, myself Souparna <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30rem"></h1> 
+<h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30rem">  Hey there, myself Souparna:man_technologist:  
+<!-- <img align='right' src="https://komarev.com/ghpvc/?username=souparna21&label=Profile%20views&color=0e75b6&style=flat" alt="souparna21" /> </p>  -->
+</h1>
 
-- 🔭 I’m currently working on a **MERN stack project** and brush up my **DSA** skills.
+<p align="center">
+ <a href = "https://github.com/Twinkle0799/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=Gonna+be+an+excelent+Developer+One+Day+"></a>
+</p>
+
+- 🔭 I’m currently working on a **MERN stack project** and brushing up my **DSA** skills.
 - 🌱 I’m currently learning **Machine Learning using AWS**.
 - 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **HTML**, **CSS**, **Unity**.
 - 👯 I’m looking to collaborate on a **blockchain**, **ML** and **AI** projects.
