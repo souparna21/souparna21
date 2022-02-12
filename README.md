@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
- <a href = "https://github.com/Twinkle0799/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=Gonna+be+an+excelent+Developer+One+Day+"></a>
+ <a href = "https://github.com/Twinkle0799/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=hGonna+be+an+excelent+Developer+One+Day+"></a>
 </p>
 
 - 🔭 I’m currently working on a **MERN stack project** and brushing up my **DSA** skills.
