@@ -3,7 +3,7 @@
 
 <br>
 
-<h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30rem">  Hey there, myself Souparna:man_technologist:  
+<h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10rem">  Hey there, myself Souparna:man_technologist:  
 <!-- <img align='right' src="https://komarev.com/ghpvc/?username=souparna21&label=Profile%20views&color=0e75b6&style=flat" alt="souparna21" /> </p>  -->
 </h1>
 
