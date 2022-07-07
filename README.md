@@ -8,20 +8,20 @@
 </h1>
 
 <p align="center">
- <a href = "https://github.com/Twinkle0799/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=hGonna+be+an+excelent+Developer+One+Day+"></a>
+ <a href = "https://github.com/Twinkle0799/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=+Software+Engineer+at+Accenture+"></a>
 </p>
 
-- 🔭 I’m currently working on a **MERN stack project** and brushing up my **DSA** skills.
+- 🔭 I’m currently working on a project called **Smart Metering and Advanced Power Distrubution System**.
 - 🌱 I’m currently learning **Machine Learning using AWS**.
 - 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **HTML**, **CSS**, **Unity**.
 - 👯 I’m looking to collaborate on a **blockchain**, **ML** and **AI** projects.
 - 🎯 My life goal is do somthing new, something innovative which will help people.
-- 🛸 Interested in **Quantum Mechanics**, **Space Technologies**, **Quantum Physics** and **Quantum Computing**.
+- 🛸 Interested in **Machine Learning**, **Artificial Intelligence**, **Computer Vision**, **Robotics** and **Quantum Computing**.
 - ⚡ Fun fact: According to the Quantum Entanglement theory the entangled partical can communicate with each other faster than the speed of light. That's why sir Albert              Einstein referred it as a **"Spooky action at a distance"**.
 
 ## 👨‍💻 About Me
 
-Hello, I am Souparna Bhowmik a third year student of B.Tech Electrical. I am a self taught programmer.
+Hello, I am Souparna Bhowmik a Software Engineer at Accenture. I have done my B.tech(Hons.) in Electrical Engineering[2018-2022] from Maulana Abul Kalam Azad University of Technology(Formerly known as WBUT) with CGPA of 8.7.
 
 I'm a Quick learner, always wanna learn and explore new technologies and build something awesome, which will make peoples life easier.
 I'm a team player too. I love to work with people in a healthy competitive environment. As a robotics team we have won prizes in many college fests, before COVID (miss those days😢). Check out our Facebook page [Team Strangers](https://www.facebook.com/WeTeamStrangers).
