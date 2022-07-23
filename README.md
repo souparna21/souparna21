@@ -35,7 +35,7 @@ Feel free to contact with me via [LinkedIn](https://www.linkedin.com/in/souparna
 <br>
 <br>
 
-<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/giphy.gif" align="right" width="275rem" height="150rem" /></a>
+<a href=""><img src="https://github.com/souparna21/souparna21/blob/main/giphy.gif" align="right" width="275" height="150" /></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souparna21&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 <br>
 <br>
