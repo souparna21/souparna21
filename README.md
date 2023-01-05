@@ -43,7 +43,7 @@ Feel free to contact with me via [LinkedIn](https://www.linkedin.com/in/souparna
 <a href=""><img src="https://github.com/souparna21/souparna21/blob/main/tenor.gif" align="right" width="275rem" height="175rem" /></a>
 <br>
 <br>
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=souparna21&theme=xcode)](https://github.com/souparna21?tab=repositories)
+[![Souparna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=souparna21&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
 <h1 align="center">Thank you.🙏</h1>
